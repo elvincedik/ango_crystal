@@ -8,9 +8,13 @@
     <title>Ango Crystal</title>
 
     {{-- bootstrap & css & aos--}}
-    <link rel="stylesheet" href="{{ asset('/CSS/bootstrap.min.css') }}">
+    {{-- <link rel="stylesheet" href="{{ asset('/CSS/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('/CSS/style.css') }}">
-    <link rel="stylesheet" href="{{ asset('aos/aos.css')}}">
+    <link rel="stylesheet" href="{{ asset('aos/aos.css')}}"> --}}
+
+    <link rel="stylesheet" href="{{ '/CSS/bootstrap.min.css' }}">
+    <link rel="stylesheet" href="{{ '/CSS/style.css' }}">
+    <link rel="stylesheet" href="{{ '/aos/aos.css'}}">
 
     {{-- google font --}}
     <link rel="preconnect" href="https://fonts.googleapis.com">
