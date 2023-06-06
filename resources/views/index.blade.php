@@ -46,7 +46,7 @@
                 <div class="container">
                     <div class="carousel-caption fs-2">
                         <p class="display-5">A wonderful <span style="color: #F58634">FIRST</span> out of home learning</p>
-                        <p class="display-5"> <span style="color: #F58634">Experience</span> For you Child...</p>
+                        <p class="display-5"> <span style="color: #F58634">Experience</span> For you Child..</p>
                     </div>
                 </div>
             </div>
